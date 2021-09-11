@@ -1,5 +1,5 @@
 # Live-Weather-Webapp
-this is a live weather web app baed on python(flask) and flask_sqlachemcy connect to a api of   Openweathermap API this api gives us live information of weather of various locations
+This is a live weather web app baed on python(flask) and flask_sqlachemcy connect to a api of   Openweathermap API this api gives us live information of weather of various locations
 
 # Requirement
 ## Flask
